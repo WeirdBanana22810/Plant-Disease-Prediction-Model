@@ -39,9 +39,9 @@ This system leverages deep learning to recognize a variety of plant diseases and
 
 The dataset used includes images of various plant species and disease types. It has been divided into:
 
-- \`train/\`  
-- \`test/\`  
-- \`valid/\`  
+- train 
+- test  
+- valid  
 
 To use the model, ensure these folders are extracted and included in your project directory. The dataset can be found at the appropriate source 
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
