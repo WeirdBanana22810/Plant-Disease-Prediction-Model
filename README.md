@@ -1,0 +1,1 @@
+# Pralnt-Disease-Prediction-Model
