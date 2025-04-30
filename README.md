@@ -43,9 +43,9 @@ The dataset used includes images of various plant species and disease types. It 
 - \`test/\`  
 - \`valid/\`  
 
-To use the model, ensure these folders are extracted and included in your project directory. The dataset can be found at the appropriate source (link to be provided).
+To use the model, ensure these folders are extracted and included in your project directory. The dataset can be found at the appropriate source 
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 ---
 
 Feel free to contribute or raise an issue if you encounter any problems! 🌱
-EOF
