@@ -1,1 +1,1 @@
-# Pralnt-Disease-Prediction-Model
+# Plant-Disease-Prediction-Model
